@@ -38,7 +38,6 @@
   <img align="center" alt="Yuri-Bootstrap" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Yuri-HTML" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="Yuri-CSS" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Yuri-Js" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Yuri-Ts" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   
   
@@ -64,6 +63,7 @@ https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-origin
 
  <img align="center" alt="Yuri-NodeJs" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
 <img align="center" alt="Yuri-Wordpress" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
+<img align="center" alt="Yuri-Js" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 -->
 <!--
 **yurikgs/yurikgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
