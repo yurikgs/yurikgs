@@ -22,6 +22,9 @@
   
 <br><br>
   
+  <h3 align = "center"><i> Main Languages/Technologies: </i></h3>
+<br>
+  
   <div align="center"><br>
   <img align="center" alt="Yuri-Java" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
    <img align="center" alt="Yuri-Spring" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
