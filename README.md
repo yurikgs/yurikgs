@@ -1,5 +1,5 @@
 <header>
-<h2 align="center">👋Hi there!👋 I am Yuri Silva - Software Developer - Meet Me Below!😀<h2>  
+<h2 align="center">👋Hi there!👋 I'm Yuri Silva - Software Developer -> Meet Me Below!😀<h2>  
 </header>
   
 <table align="center">
@@ -31,14 +31,33 @@
 
 <div align="center"><br>
   <img align="center" alt="Yuri-Java" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Yuri-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="Yuri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Yuri-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Yuri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Yuri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Yuri-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+   <img align="center" alt="Yuri-Spring" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Yuri-MySql" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+   <img align="center" alt="Yuri-NodeJs" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="Yuri-Angular" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Yuri-Bootstrap" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Yuri-HTML" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
+  <img align="center" alt="Yuri-CSS" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Yuri-Js" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Yuri-Ts" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Yuri-Wordpress" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
+  
 </div>
 
+<br><br>
+  
+ 
+<div id="footer-buttons" align="center" >
+<a href = "mailto:yurikgs@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/yuri-silva-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+  
+<!-- 
+https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg
+https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg
+https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg
+https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg
+-->
 <!--
 **yurikgs/yurikgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
