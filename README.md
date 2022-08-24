@@ -27,19 +27,21 @@
   
   <div align="center"><br>
   <img align="center" alt="Yuri-Java" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-   <img align="center" alt="Yuri-Spring" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Yuri-Node" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Yuri-Nest" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg">
+  <img align="center" alt="Yuri-Spring" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
   <img align="center" alt="Yuri-MySql" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Yuri-Angular" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Yuri-Bootstrap" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Yuri-HTML" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="Yuri-CSS" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Yuri-Ts" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  
+  <br><br>
   
 </div>
 
- ![Snake animation](https://github.com/yurikgs/yurikgs/blob/output/github-contribution-grid-snake.svg)
-  
+
+  ![Snake animation](https://github.com/yurikgs/yurikgs/blob/output/github-contribution-grid-snake.svg)
  
   <br>
   <h3 align = "center"><i> My Work Stats: </i></h3>
