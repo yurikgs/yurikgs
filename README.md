@@ -9,11 +9,8 @@
       <a href=#profile><img src="https://i.ibb.co/MG37wMW/toon-Profile.png" height = "200em" alt="toon-Profile" border="0"></a></td>
     <td>
    <ul align="left">
-    <li><b>Java Developer</b></li>
+    <li><b>Web Developer</b></li>
     <li><b>Passionate by Coding & Languages</b></li>
-    <li><b>Back End: <em>Java, Spring Boot Framework, OOP, JS, NodeJS</em></b></li>
-    <li><b>Front End: <em>Angular, TypeScript, HTML, CSS, JS, Wordpress CMS</em></b></li>
-    <li><b>Other Knowledges:<em>SEO on/off page, Git/GitHub</em></b></li>
   </ul>
     </td>
   </tr>
